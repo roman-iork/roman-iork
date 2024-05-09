@@ -10,6 +10,12 @@ As on May 8, 2024:
 - Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
 - Long term aim - participate in or initiate big, useful project.
 
+  ### Contacts
+  iork@inbox.ru
+
+  ### CV
+  Мое резюме на русском [CV](https://cv.hexlet.io/ru/resumes/3870).
+
 <!--
 **roman-iork/roman-iork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
