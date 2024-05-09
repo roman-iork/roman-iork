@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+As on May 8, 2024:
+Level - beginner.
+Status - Extremly interested in all connected to programming.
+Stack - Jave, Idea, Gradle, Git.
+Working on skills - touch typing and Vim.
+Working on knowledges - https and web technologies.
+Working on projects - school projects, telegam bot.
+Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
+Long term aim - participate in or initiate big, useful project.
+
 <!--
 **roman-iork/roman-iork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
