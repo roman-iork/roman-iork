@@ -9,7 +9,7 @@ As on May 8, 2024:
 - Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
 - Long term aim - participate in or initiate big, useful project.  
 ### CV
-Мое резюме на русском [CV](https://cv.hexlet.io/ru/resumes/3870).  
+[Мое резюме на русском](https://cv.hexlet.io/ru/resumes/3870)  
 ### Contacts
 iork@inbox.ru  
 [telegram](https://t.me/iorkroman)   
