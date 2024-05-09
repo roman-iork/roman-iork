@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 As on May 8, 2024:  
 - Level - beginner.
 - Status - Extremly interested in all connected to programming.
@@ -8,13 +7,11 @@ As on May 8, 2024:
 - Working on knowledges - https and web technologies.
 - Working on projects - school projects, telegam bot.
 - Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
-- Long term aim - participate in or initiate big, useful project.
-
-### Contacts
-iork@inbox.ru
-
+- Long term aim - participate in or initiate big, useful project.  
 ### CV
-Мое резюме на русском [CV](https://cv.hexlet.io/ru/resumes/3870).
+Мое резюме на русском [CV](https://cv.hexlet.io/ru/resumes/3870).  
+### Contacts
+iork@inbox.ru  
 
 <!--
 **roman-iork/roman-iork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
