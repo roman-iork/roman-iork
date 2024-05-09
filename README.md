@@ -12,7 +12,7 @@ As on May 8, 2024:
 Мое резюме на русском [CV](https://cv.hexlet.io/ru/resumes/3870).  
 ### Contacts
 iork@inbox.ru  
-[Телеграмм](https://t.me/iorkroman).   
+[telegram](https://t.me/iorkroman)   
 
 <!--
 **roman-iork/roman-iork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
