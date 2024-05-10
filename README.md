@@ -8,8 +8,9 @@ As on May 8, 2024:
 - Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
 - Long term aim - participate in or initiate big, useful project.
 - Stack - Java, Idea, Gradle, Git.
+---------
 ### Stack
-<span style="background-color: yellow>Java</span>
+![Java!](/assets/images/san-juan-mountains.jpg "Java")
 ### CV
 [Мое резюме на русском](https://cv.hexlet.io/ru/resumes/3870)  
 ### Contacts
