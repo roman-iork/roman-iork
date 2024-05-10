@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 ---------
 As on May 8, 2024:  
 - Level - beginner. Currently studying in Hexlet online programming school.
@@ -8,12 +9,15 @@ As on May 8, 2024:
 - Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
 - Long term aim - participate in or initiate big, useful project.
 - Stack - Java, Idea, Gradle, Git.
+
 ---------
 ### Main Stack
-![Java!](https://java.png "Java") ![Idea](idea.png "Idea") ![Gradle](gradle.png "Gradle") ![Git](git.png "Git")  
+![Java!](java.png "Java") ![Idea](idea.png "Idea") ![Gradle](gradle.png "Gradle") ![Git](git.png "Git")
+
 ---------
 ### CV
-[Мое резюме на русском](https://cv.hexlet.io/ru/resumes/3870)  
+[Мое резюме на русском](https://cv.hexlet.io/ru/resumes/3870)
+
 ---------
 ### Contacts
 iork@inbox.ru  
