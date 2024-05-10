@@ -16,7 +16,7 @@ As on May 8, 2024:
 
 ---------
 ### CV
-[Мое резюме на русском](https://cv.hexlet.io/ru/resumes/3870)
+[My CV in Russian](https://cv.hexlet.io/ru/resumes/3870)
 
 ---------
 ### Contacts
