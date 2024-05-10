@@ -10,7 +10,7 @@ As on May 8, 2024:
 - Stack - Java, Idea, Gradle, Git.
 ---------
 ### Stack
-![Java!](/assets/images/san-juan-mountains.jpg "Java")
+![Java!](https://github.com/roman-iork/roman-iork/blob/main/java.png?raw=true "Java")
 ### CV
 [Мое резюме на русском](https://cv.hexlet.io/ru/resumes/3870)  
 ### Contacts
