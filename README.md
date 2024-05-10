@@ -1,4 +1,5 @@
 ### Hi there 👋
+---------
 As on May 8, 2024:  
 - Level - beginner. Currently studying in Hexlet online programming school.
 - Working on skills - touch typing and Vim.
@@ -6,7 +7,9 @@ As on May 8, 2024:
 - Working on projects - school projects, telegam bot.
 - Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
 - Long term aim - participate in or initiate big, useful project.
-- Stack - Java, Idea, Gradle, Git.  
+- Stack - Java, Idea, Gradle, Git.
+### Stack
+<span style="background-color: yellow>Java</span>
 ### CV
 [Мое резюме на русском](https://cv.hexlet.io/ru/resumes/3870)  
 ### Contacts
