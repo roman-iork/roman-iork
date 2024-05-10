@@ -1,14 +1,26 @@
 ### Hi there 👋
 
 ---------
-As on May 8, 2024:  
-- Level - beginner. Currently studying in Hexlet online programming school.
-- Working on skills - touch typing and Vim.
-- Working on knowledges - https and web technologies.
-- Working on projects - school projects, telegam bot.
-- Mid-term aim - bring programming skills to automation to concentrate on structure and algorithms, get job.
-- Long term aim - participate in or initiate big, useful project.
-- Stack - Java, Idea, Gradle, Git.
+### Short bio
+
+**Edu**  
+Technical University. Constructor. Bachelor. 2007.  
+Technical University. Translator (English). Additional. 2007.  
+Hexlet online school. Java developer. Additional.  September 2023 - now.
+
+**Relevant experience**
+Projects in pinned repos.  
+Pet-project TelegramBot.
+
+**About me**  
+Main tools - *Java*, *Idea*, *Gradle*, *Git*.  
+Worked with - *HTML*, *CSS*, *SQL*.  
+Additional - *Make*, *Markdown*, *picocli*.  
+Used technologies - *DDP*, *OOP*, *CI*.
+
+Currently studying, available for work.
+
+Like foreign languages, nature, outdoors activity.
 
 ---------
 ### Main Stack
