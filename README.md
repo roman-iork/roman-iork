@@ -3,20 +3,20 @@
 ---------
 ### Short bio
 
-**Edu**  
+**Education**  
 Technical University. Constructor. Bachelor. 2007.  
 Technical University. Translator (English). Additional. 2007.  
 Hexlet online school. Java developer. Additional.  September 2023 - now.
 
-**Relevant experience**
+**Relevant experience**  
 Projects in pinned repos.  
-Pet-project TelegramBot.
+Pet project TelegramBot.
 
 **About me**  
 Main tools - *Java*, *Idea*, *Gradle*, *Git*.  
 Worked with - *HTML*, *CSS*, *SQL*.  
 Additional - *Make*, *Markdown*, *picocli*.  
-Used technologies - *DDP*, *OOP*, *CI*.
+Used technologies - *OOP*, *TDD*, *CI*.
 
 Currently studying, available for work.
 
