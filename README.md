@@ -12,14 +12,14 @@ Hexlet online school. Java developer. Additional.  September 2023 - now.
 Projects in pinned repos.  
 Pet project TelegramBot.
 
-**About me**  
+**Skills & knowledge**  
 Main tools - *Java*, *Idea*, *Gradle*, *Git*.  
 Worked with - *HTML*, *CSS*, *SQL*.  
 Additional - *Make*, *Markdown*, *picocli*.  
 Used technologies - *OOP*, *TDD*, *CI*.
 
-Currently studying, available for work.
-
+**About me**  
+Currently studying to become Java developer, available for work.  
 Like foreign languages, nature, outdoors activity.
 
 ---------
