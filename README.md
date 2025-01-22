@@ -6,7 +6,7 @@
 **Education**  
 Technical University. Constructor. Bachelor. 2007.  
 Technical University. Translator (English). Additional. 2007.  
-Hexlet online school. Java developer. Additional.  September 2023 - now.
+Hexlet online school. Java developer. Additional.  September 2023 - August 2024.
 
 **Relevant experience**  
 Projects in pinned repos.  
